@@ -10,7 +10,7 @@ I compared a stacking ensemble (XGBoost + LightGBM + Logistic Regression) agains
 2. **Can we trust its explanations?** SHAP explanations were produced and then *tested*, not just plotted.
 3. **Is the extra complexity worth it?** Paired bootstrap confidence intervals were used to check whether differences between models are real or just noise.
 
-📄 **Full report:** [`report/dissertation_report.pdf`](report/dissertation_report.pdf)
+📄 **Full report:** [`report/dissertation_report.pdf`](Report/Dissertation_report.pdf)
 
 ---
 
