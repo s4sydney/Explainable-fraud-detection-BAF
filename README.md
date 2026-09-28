@@ -92,4 +92,3 @@ Jesus, S. et al. (2022) *Turning the Tables: Biased, Imbalanced, Dynamic Tabular
 ## Author
 
 **Sydney Ndabai** — MSc Data Analytics, De Montfort University
-Supervisor: Dr Ahmad Lawal
